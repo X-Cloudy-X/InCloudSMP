@@ -1,4 +1,4 @@
-#InCloudSMP
+# InCloudSMP
 
 A collection of documents that are somehow connected to InCloudSMP
 
